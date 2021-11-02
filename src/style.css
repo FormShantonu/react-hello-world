@@ -1,0 +1,9 @@
+body {
+  background-color: #242b2e;
+}
+.btn{
+    background-color: coral;
+    color:dimgray;
+    margin: 0 auto;
+    padding: 20px 30px;
+}
